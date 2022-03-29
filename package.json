@@ -1,0 +1,13 @@
+{
+  "name": "vitessenage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "allen(https://github.com/justforuse)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justforuse/vitessenage.git"
+  },
+  "license": "ISC"
+}
